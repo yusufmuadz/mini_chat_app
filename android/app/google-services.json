@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "70593397287",
+    "project_id": "mini-chat-app-e0518",
+    "storage_bucket": "mini-chat-app-e0518.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70593397287:android:60e1d52814725b588e4402",
+        "android_client_info": {
+          "package_name": "com.example.mini_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA000Dk3fdlH1OFkebnTGS2ql-wayh7vTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
